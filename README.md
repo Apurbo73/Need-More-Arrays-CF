@@ -87,5 +87,4 @@ Process:
 
 ---
 
-Let me know if you want a [dry run with custom input](f), [code comments version](f), or [Python translation](f).
 
